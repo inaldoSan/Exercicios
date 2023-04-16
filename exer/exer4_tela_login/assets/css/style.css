@@ -1,0 +1,49 @@
+.tela{
+    justify-content: center;
+    width: 279px;
+    height: 531px;
+    background: rgba(206, 58, 58, 0.88);
+    backdrop-filter: blur(2px);
+    border-radius: 15px;
+}
+
+.login{
+    position: relative;
+    width: 246px;
+    height: 35px;
+    margin: 2.5px;
+    backdrop-filter: blur(2px);
+    border-radius: 60px;
+}
+
+.pass {
+    position: relative;
+    width: 247px;
+    height: 37px;
+    margin: 2.5px;
+    backdrop-filter: blur(2px);
+    border-radius: 60px;
+}
+
+.button {
+    margin: 5px;
+    width: 241px;
+    height: 33px;
+    background: #175D9D;
+    border-radius: 15px;
+}
+.button:hover{
+    background: rgb(73, 9, 192);
+    color: rgb(0, 0, 0);
+    cursor: grab;
+
+}
+
+form {
+    position: relative;
+    padding: 10px;
+    top: 25%;
+}
+p {
+    margin: 0;
+}
